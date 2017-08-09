@@ -1,0 +1,22 @@
+{
+  "name": "purple-lib-r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silyevsk/purple-lib-r.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silyevsk/purple-lib-r/issues"
+  },
+  "homepage": "https://github.com/silyevsk/purple-lib-r#readme",
+  "dependencies": {
+    "purple-lib-q": "~1.0.0"
+  }
+}
